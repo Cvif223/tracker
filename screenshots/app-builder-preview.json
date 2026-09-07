@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Ритм",
+      "hasCanvas": false,
+      "bodyTextLen": 238,
+      "bodyTextHash": "278feaf4eee240b170a1d9cec8eac43e26da827d5b22aeb5b6e6f4a054ea21cc",
+      "bodyTextPrefix": "Ритм Доброе утро · воскресенье, 23 августа Привычка СЕГОДНЯ 2 / ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Ритм",
+      "hasCanvas": false,
+      "bodyTextLen": 229,
+      "bodyTextHash": "194f36362ec5bf6696573d2c6a42ad05e8692170916d02973e8baf1306e01e8e",
+      "bodyTextPrefix": "Ритм Доброе утро · воскресенье, 23 августа СЕГОДНЯ 2 / 5 Тихий с",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
